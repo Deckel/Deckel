@@ -4,4 +4,6 @@
 
 <img align='right' src='https://viralviralvideos.com/wp-content/uploads/2014/06/GIF-Hacker.gif' width='400'>
 
-Your content goes here...
+<b> Noteable projects </b>
+
+1. Optimising a pipeline so much Snowflake ended up paying me
