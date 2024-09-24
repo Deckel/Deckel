@@ -1,1 +1,1 @@
-<img align='right' src='[https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif](https://viralviralvideos.com/wp-content/uploads/2014/06/GIF-Hacker.gif)' width='200"'>
+<img align='right' src='https://viralviralvideos.com/wp-content/uploads/2014/06/GIF-Hacker.gif' width='200'>
