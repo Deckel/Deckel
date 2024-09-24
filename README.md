@@ -7,4 +7,4 @@
   ### Projects  
   - **Project 1**: Short description.  
   - **Project 2**: Another project description.  
-  - **Project
+  - **Project 3**: Additional project details. |  |
