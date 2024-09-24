@@ -8,4 +8,6 @@
 
 <b> Noteable projects </b>
 
-
+<h5> LLM Graph generationm <h5> 
+Using a wrapper around openai api to analyse data and return graphs based on user prompts
+https://github.com/Deckel/graphanator
