@@ -10,7 +10,7 @@
 <p><a href="https://github.com/Deckel/graphanator" target="_blank">https://github.com/Deckel/graphanator</a></p>
 
 <h5>LiDAR System :high_brightness:</h5>
-<p>A light detection radar system that measures the size of a room and <br> creates an interactive 3D graph.</p>
+<p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
 <h4>Connect with me</h4>
