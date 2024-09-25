@@ -16,5 +16,6 @@
 <h4>Connect with me</h4>
 <p>
 <a href="https://www.linkedin.com/in/deckel"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
-<a href="https://soundcloud.com/djdizzied"><img src="https://cdn-icons-png.flaticon.com/512/145/145809.png" alt="SoundCloud" width="30" style="margin-left: 10px;"></a>
+<a href="https://soundcloud.com/deckel"><img src="https://cdn-icons-png.flaticon.com/512/145/145809.png" alt="SoundCloud" width="30" style="margin-left: 10px;"></a>
+<a href="https://www.instagram.com/deckeldelange"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="30" style="margin-left: 10px;"></a>
 </p>
