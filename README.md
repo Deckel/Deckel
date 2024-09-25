@@ -6,7 +6,7 @@
 
 <h4>Projects</h4>
 <h5>The Graphanator :bar_chart:</h5>
-<p>LLM Graph generation in a flask app</p> 
+<p>LLM Graph generation in a flask app. </p> 
 <p><a href="https://github.com/Deckel/graphanator" target="_blank">https://github.com/Deckel/graphanator</a></p>
 
 <h5>LiDAR System :high_brightness:</h5>
