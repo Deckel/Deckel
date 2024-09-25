@@ -9,6 +9,6 @@
 <p>LLM Graph generation in a flask app</p> 
 <p><a href="https://github.com/Deckel/graphanator" target="_blank">https://github.com/Deckel/graphanator</a></p>
 
-<h5>LiDAR system :high_brightness: </h5>
+<h5>LiDAR System :high_brightness: </h5>
 <p>A Light detection radar system that graphs the size of rooms.</p>
-<p><a href="https://github.com/Deckel/lidar_system" target="_blank">https://github.com/Deckel/lidar_system</a></p>
+<p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
