@@ -11,4 +11,8 @@
 
 <h5>LiDAR System :high_brightness:</h5>
 <p>A Light detection radar system that graphs the size of rooms.</p>
-<p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem
+<p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
+
+<p>
+<a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
+</p>
