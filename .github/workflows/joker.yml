@@ -24,18 +24,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install pyjokes
 
-      - name: Add joke to README
+      - name: Update joke in README
         run: |
           joke=$(python -c "import pyjokes; print(pyjokes.get_joke())")
-          sed -i "s/<!-- JOKE_PLACEHOLDER -->/ Enjoy **an daily auto-generated**joke: $joke/" README.md
+          sed -i "s|<!-- JOKE_PLACEHOLDER -->|Enjoy **an daily auto-generated joke**: $joke|g" README.md
 
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "Add joke of the day"
-
-      - name: Push changes
-        run: |
+          git commit -m "Update joke of the day" || echo "No changes to commit"
           git push
