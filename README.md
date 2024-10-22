@@ -14,6 +14,7 @@
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
 **Enjoy an daily auto-generated joke**: Old C programmers don't die, they're just cast into void.
+**Enjoy an daily auto-generated joke**: A programmer walks into a foo...
 <!-- JOKE_PLACEHOLDER -->
 
 <h4>Connect with me</h4>
