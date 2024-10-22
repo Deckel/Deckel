@@ -26,7 +26,7 @@ jobs:
 
       - name: Update joke in README
         run: |
-          joke=$(python -c "import pyjokes; print(pyjokes.get_joke().replace('/', '\\/'))")
+          joke=$(python -c "import pyjokes; print(pyjokes.get_joke())")
           sed -i "s|**Enjoy a daily auto-generated joke**: .*|**Enjoy a daily auto-generated joke**: $joke|g" README.md
 
       - name: Commit changes
