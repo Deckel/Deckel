@@ -24,17 +24,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install pyjokes
 
-      - name: Debug README Before Update
-        run: cat README.md
-
       - name: Update joke in README
         run: |
           joke=$(python -c "import pyjokes; print(pyjokes.get_joke())")
-          sed -i "s|<!-- JOKE_PLACEHOLDER -->|**Enjoy an daily auto-generated joke**:\n$joke\n<!-- JOKE_PLACEHOLDER -->|g" README.md
-
-          
-      - name: Debug README After Update
-        run: cat README.md
+          sed -i "s|**Enjoy an daily auto-generated joke**:.*<!-- JOKE_PLACEHOLDER -->|**Enjoy an daily auto-generated joke**: $joke\n<!-- JOKE_PLACEHOLDER -->|g" README.md
 
       - name: Commit changes
         run: |
