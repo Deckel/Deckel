@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
- Enjoy a daily auto-generated joke: Why do Java programmers have to wear glasses? Because they don't C#.
+ <!-- JOKE_PLACEHOLDER -->
 
 <h4>Connect with me</h4>
 <p>
