@@ -26,32 +26,30 @@ jobs:
 
       - name: Update joke in README
         run: |
-          python -c """
-          
-            import pyjokes
-            
-            # Load the README file
-            with open('README.md', 'r') as file:
-                content = file.readlines()
-            
-            # Get a new joke
-            joke = pyjokes.get_joke()
-            
-            # Replace the joke line
-            for i, line in enumerate(content):
-                if '**Enjoy a daily auto-generated joke**:' in line:
-                    content[i] = f'**Enjoy a daily auto-generated joke**: {joke}\\n'
-            
-            # Write back to the README file
-            with open('README.md', 'w') as file:
-                file.writelines(content)
-                
-            """
-                  
-            - name: Commit changes
-              run: |
-                git config --global user.name 'github-actions[bot]'
-                git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-                git add README.md
-                git commit -m "Update joke of the day" || echo "No changes to commit"
-                git push
+          python -c "
+import pyjokes
+
+# Load the README file
+with open('README.md', 'r') as file:
+    content = file.readlines()
+
+# Get a new joke
+joke = pyjokes.get_joke()
+
+# Replace the joke line
+for i, line in enumerate(content):
+    if '**Enjoy a daily auto-generated joke**:' in line:
+        content[i] = f'**Enjoy a daily auto-generated joke**: {joke}\\n'
+
+# Write back to the README file
+with open('README.md', 'w') as file:
+    file.writelines(content)
+"
+      
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update joke of the day" || echo "No changes to commit"
+          git push
