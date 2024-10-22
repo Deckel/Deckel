@@ -18,7 +18,7 @@ joke = pyjokes.get_joke()
 for i, line in enumerate(content):
     if '**Enjoy a daily auto-generated joke**:' in line:
         print(f"Found like at {i}, updating with the joke {joke}")
-        content[i] = f'**Enjoy a daily auto-generated joke**: (last updated at: {formatted_date}) <p> {joke} </p> \n'
+        content[i] = f'**Enjoy a daily auto-generated joke**: _(last updated at: {formatted_date})_ <p> {joke} </p> \n'
 
 # Write back to the README file
 with open('README.md', 'w') as file:
