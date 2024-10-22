@@ -13,8 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: What do you call a programmer from Finland? Nerdic.\n
-<h4>Connect with me</h4>
+**Enjoy a daily auto-generated joke**: Obfuscated Reality Mappers (ORMs) can be useful database tools.<h4>Connect with me</h4>
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
 <a href="https://soundcloud.com/djdizzied"><img src="https://cdn-icons-png.flaticon.com/512/145/145809.png" alt="SoundCloud" width="30" style="margin-left: 10px;"></a>
