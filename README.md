@@ -13,8 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: 
-I would tell you a joke about UDP, but you would never get it.<p>
+**Enjoy a daily auto-generated joke**: <p> I would tell you a joke about UDP, but you would never get it.</p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
 <a href="https://soundcloud.com/djdizzied"><img src="https://cdn-icons-png.flaticon.com/512/145/145809.png" alt="SoundCloud" width="30" style="margin-left: 10px;"></a>
 <a href="https://www.instagram.com/deckeldelange"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" style="margin-left: 10px; border-radius: 50%; background-color: white; padding: 2px;"></a>
