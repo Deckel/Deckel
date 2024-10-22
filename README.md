@@ -15,6 +15,8 @@
 
 **Enjoy an daily auto-generated joke**:
 If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.
+**Enjoy an daily auto-generated joke**:
+I changed my password to BeefStew but the computer told me it wasn't Stroganoff.
 <!-- JOKE_PLACEHOLDER -->
 
 <h4>Connect with me</h4>
