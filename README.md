@@ -13,10 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-## Joke of the day
-
-$joke
-
+<!-- JOKE_PLACEHOLDER -->
 
 <h4>Connect with me</h4>
 <p>
