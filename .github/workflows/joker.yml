@@ -27,7 +27,8 @@ jobs:
       - name: Update joke in README
         run: |
           joke=$(python -c "import pyjokes; print(pyjokes.get_joke())")
-          sed -i "s|<!-- JOKE_PLACEHOLDER -->|Enjoy **an daily auto-generated joke**: $joke|g" README.md
+          sed -i "s|<!-- JOKE_PLACEHOLDER -->|**Enjoy an daily auto-generated joke**:\n$joke|g" README.md
+
 
       - name: Commit changes
         run: |
