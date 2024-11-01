@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2024-10-31_) <p> How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow! </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2024-11-01_) <p> Software developers like to solve problems. If there are no problems handily available, they will create their own. </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
