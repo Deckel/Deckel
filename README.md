@@ -1,4 +1,4 @@
-<h2>Keano de Lange</h2>
+<h2>Keano Deckel de Lange</h2>
 <h3 style="display: inline-block; margin: 0;">Senior Analytics Engineer @ Wise <span style="font-size: 1.2em;">✨🔥</span></h3>
 <img align="right" src="https://viralviralvideos.com/wp-content/uploads/2014/06/GIF-Hacker.gif" width="375" style="vertical-align: middle; margin-left: 25px; margin-top: 10px;">
 
