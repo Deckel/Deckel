@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2025-03-10_) <p> A: What is your address? Me: 173.168.15.10 A: No, your local address Me: 127.0.0.1 A: I mean your physical address B: 29:01:38:62:31:58 </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2025-03-11_) <p> Never say 'OOPS!' always say 'Ah, Interesting!' </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
