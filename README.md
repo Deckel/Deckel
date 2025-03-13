@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2025-03-12_) <p> The C language combines all the power of assembly language with all the ease-of-use of assembly language. </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2025-03-13_) <p> Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired. </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
