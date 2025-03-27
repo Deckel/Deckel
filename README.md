@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2025-03-26_) <p> A Programmer was walking out of door for work, his wife said "while you're out, buy some milk" and he never returned. </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2025-03-27_) <p> Debugging is like being the detective in a crime drama where you are also the murderer. </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
