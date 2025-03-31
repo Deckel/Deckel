@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2025-03-30_) <p> Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bring it up in public. </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2025-03-31_) <p> How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them. </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
