@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2025-05-06_) <p> A friend is in a band called 1023Mb. They haven't had a gig yet. </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2025-05-07_) <p> Have you heard about the new Cray super computer? It's so fast, it executes an infinite loop in 6 seconds. </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
