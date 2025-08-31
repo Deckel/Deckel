@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2025-08-30_) <p> Hey! It compiles! Ship it! </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2025-08-31_) <p> 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table. </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
