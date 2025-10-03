@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2025-10-02_) <p> Number of days since I have encountered an array index error: -1. </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2025-10-03_) <p> What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.' </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
