@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2025-12-01_) <p> I have a dream: 1073741824 bytes free. </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2025-12-02_) <p> Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
