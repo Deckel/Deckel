@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2026-01-04_) <p> An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, wine, alcohol, spirits... </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2026-01-05_) <p> How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them. </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
