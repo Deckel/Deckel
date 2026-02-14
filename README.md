@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2026-02-13_) <p> Buy a Pentium 586/200 so you can reboot faster. </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2026-02-14_) <p> There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary. </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
