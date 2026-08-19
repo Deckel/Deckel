@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2026-08-18_) <p> Why do sin and tan work? Just cos. </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2026-08-19_) <p> Two bytes meet. The first byte asks, 'Are you ill?' The second byte replies, 'No, just feeling a bit off.' </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
