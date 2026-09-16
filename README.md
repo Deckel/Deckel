@@ -13,7 +13,7 @@
 <p>A light detection radar system that measures the size of a room <br> and creates an interactive 3D graph.</p>
 <p><a href="https://github.com/Deckel/LidarSystem" target="_blank">https://github.com/Deckel/LidarSystem</a></p>
 
-**Enjoy a daily auto-generated joke**: (_last updated at: 2026-09-15_) <p> If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl. </p> 
+**Enjoy a daily auto-generated joke**: (_last updated at: 2026-09-16_) <p> I love pressing the F5 key. It's refreshing. </p> 
 
 <p>
 <a href="https://www.linkedin.com/in/deckel-de-lange-536067169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"></a>
